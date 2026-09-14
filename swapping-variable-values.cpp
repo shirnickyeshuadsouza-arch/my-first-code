@@ -5,7 +5,7 @@ int main(){
  int y=34;
  int temp=y;
  y=x;
- y=temp;
+ x=temp;
 
 std::cout<< x;
  return 0; 
